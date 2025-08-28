@@ -6,7 +6,7 @@
 Note: after you install, it will try to get you to log in and create an account, you don't need to do this. You can click **Skip** in the top right corner instead.
  
 2. create a folder/directory where you'll store your python code for the class.
-3. Create a file called `docker-compose.yml` in that directory and paste the content below
+3. Create a file called `docker-compose.yml` in that directory and paste the content below (or click here and save/download this file direct to your directory <https://raw.githubusercontent.com/bme-ekb/bme271/refs/heads/main/docker-compose.yml>)
 
 ```yaml
 services:
